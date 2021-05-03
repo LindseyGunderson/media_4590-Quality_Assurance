@@ -1,5 +1,2 @@
 # media-4590
-A test repository for BCIT's New Media QA Class
-
-## README.md
-README.md files are instructions for the project.
+Repository for BCIT Quality Assurance course. This repository will be used to track issue with my portfolio site and log the bug issues. The bugs found will be adjusted and resolved.
